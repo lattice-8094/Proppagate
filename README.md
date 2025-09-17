@@ -16,12 +16,9 @@ Natural Language Processing Pipeline for French Literary Works
    │       ├── entities
    │       │   ├── *.entities
    │       │   ├── *.tokens
-   │       │   ├── .txt
+   │       │   ├── *.txt
    │       └── sacr
-   │           ├── .sacr       
-   ├── propp_logo_only.png
-   ├── propp_logo.png
-   ├── README.md
+   │           ├── *.sacr       
    ├── result
    │   ├── COUNT_coref.csv
    │   ├── md_chaine.md
